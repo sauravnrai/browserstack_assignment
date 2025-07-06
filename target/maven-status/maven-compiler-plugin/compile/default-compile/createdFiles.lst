@@ -1,0 +1,4 @@
+com\saurav\scraper\TitleTranslator.class
+com\saurav\scraper\ArticleData.class
+com\saurav\scraper\ElPaisArticleScraper.class
+com\saurav\scraper\ArticleParser.class

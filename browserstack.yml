@@ -1,0 +1,36 @@
+userName: "sauravrai_QyXufU"
+accessKey: "po7AyP546bi1DyivqJQz"
+
+run_settings:
+  test_framework: testng
+  parallel_runs: 5
+  test_path: src/test/java/com/saurav/scraper/
+  project_name: "BrowserStack Assignment"
+  build_name: "Parallel Scraper Build"
+  framework_version: "7.4.0"
+  timeout: 300
+  build_tag: "v1"
+
+platforms:
+  - os: Windows
+    osVersion: 10
+    browser: chrome
+    browserVersion: latest
+  - os: OS X
+    osVersion: Sonoma
+    browser: safari
+    browserVersion: latest
+  - os: Windows
+    osVersion: 11
+    browser: edge
+    browserVersion: latest
+  - browserName: chrome
+    osVersion: 13.0
+    deviceName: Samsung Galaxy S23
+    realMobile: true
+  - browserName: chrome
+    osVersion: 10.0
+    deviceName: Xiaomi Redmi Note 9
+    realMobile: true
+
+source: "java-sdk:testng"

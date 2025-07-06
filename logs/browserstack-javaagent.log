@@ -1,0 +1,197 @@
+19:30:25.706 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:30:25.719 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+19:30:25.720 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.Exception: Empty userName or accessKey
+19:38:08.327 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:38:08.335 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+19:38:08.339 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.Exception: Empty userName or accessKey
+19:40:15.686 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:40:15.698 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+19:40:15.698 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.Exception: Empty userName or accessKey
+19:44:05.051 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - expected '<document start>', but found '<block mapping start>'
+ in 'reader', line 31, column 1:
+    testObservability: true
+    ^
+.
+19:44:05.055 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:44:05.061 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+19:44:05.063 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.Exception: Empty userName or accessKey
+19:52:58.847 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - expected '<document start>', but found '<block mapping start>'
+ in 'reader', line 31, column 1:
+    testObservability: true
+    ^
+.
+19:52:58.851 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:52:58.866 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+19:52:58.867 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.Exception: Empty userName or accessKey
+19:59:30.313 [main] ERROR c.b.config.BrowserStackConfig - Malformed browserstack.yml file - expected '<document start>', but found '<block mapping start>'
+ in 'reader', line 31, column 1:
+    testObservability: true
+    ^
+.
+19:59:30.318 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+19:59:30.325 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+19:59:30.325 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.Exception: Empty userName or accessKey
+20:11:24.972 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+20:11:24.987 [main] INFO  c.b.config.BrowserStackConfig - parallelsPerPlatform was not defined and has been set to 1 (Default)
+20:11:24.990 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+20:11:36.796 [main] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/dqqtwdek4hgjltblk1crinw6fibtz1plfsrzhdbh to view build report, insights, and many more debugging information all at one place!
+
+20:11:38.092 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+20:11:38.093 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+20:25:53.121 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+20:25:53.141 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+20:25:53.143 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.Exception: Empty userName or accessKey
+20:27:49.664 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+20:27:49.678 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+20:27:49.680 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - java.lang.Exception: Empty userName or accessKey
+21:34:41.407 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.20.0
+21:34:41.417 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+21:34:41.801 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=C\:\\Users\\Saurav\\OneDrive\\Desktop\\BrowserStack-Assignment\\browserstack-assignment, localrepository=C\:\\Users\\Saurav\\.m2\\repository}
+21:34:41.802 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Saurav\OneDrive\Desktop\BrowserStack-Assignment\browserstack-assignment\browserstack.yml
+21:34:41.994 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+21:34:42.019 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+21:34:43.041 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Empty userName or accessKey
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:560)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:572)
+
+21:36:04.781 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.20.0
+21:36:04.795 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+21:36:05.221 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=C\:\\Users\\Saurav\\OneDrive\\Desktop\\BrowserStack-Assignment\\browserstack-assignment, localrepository=C\:\\Users\\Saurav\\.m2\\repository}
+21:36:05.222 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Saurav\OneDrive\Desktop\BrowserStack-Assignment\browserstack-assignment\browserstack.yml
+21:36:05.325 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+21:36:05.341 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+21:36:05.880 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Empty userName or accessKey
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:560)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:572)
+
+21:37:17.409 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.20.0
+21:37:17.496 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+21:37:19.151 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=C\:\\Users\\Saurav\\OneDrive\\Desktop\\BrowserStack-Assignment\\browserstack-assignment, localrepository=C\:\\Users\\Saurav\\.m2\\repository}
+21:37:19.152 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Saurav\OneDrive\Desktop\BrowserStack-Assignment\browserstack-assignment\browserstack.yml
+21:37:19.302 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+21:37:19.309 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+21:37:20.048 [main] ERROR c.browserstack.BrowserStackJavaAgent - Something went wrong - com.browserstack.utils.BrowserStackSDKException: Empty userName or accessKey
+	at com.browserstack.BrowserStackJavaAgent.b(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.a(Unknown Source)
+	at com.browserstack.BrowserStackJavaAgent.premain(Unknown Source)
+	at java.base/jdk.internal.reflect.DirectMethodHandleAccessor.invoke(DirectMethodHandleAccessor.java:103)
+	at java.base/java.lang.reflect.Method.invoke(Method.java:580)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndStartAgent(InstrumentationImpl.java:560)
+	at java.instrument/sun.instrument.InstrumentationImpl.loadClassAndCallPremain(InstrumentationImpl.java:572)
+
+21:47:20.090 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.20.0
+21:47:20.107 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+21:47:20.654 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=C\:\\Users\\Saurav\\OneDrive\\Desktop\\BrowserStack-Assignment\\browserstack-assignment, localrepository=C\:\\Users\\Saurav\\.m2\\repository}
+21:47:20.654 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Saurav\OneDrive\Desktop\BrowserStack-Assignment\browserstack-assignment\browserstack.yml
+21:47:20.778 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+21:47:20.783 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+21:47:21.522 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+21:47:24.698 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+21:47:30.362 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/m6m0odklvqjl6gofqm5faflkkgzsuhfru3cflidk to view build report, insights, and many more debugging information all at one place!
+
+21:47:30.362 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+22:01:16.019 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.20.0
+22:01:16.022 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+22:01:16.587 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=C\:\\Users\\Saurav\\OneDrive\\Desktop\\BrowserStack-Assignment\\browserstack-assignment, localrepository=C\:\\Users\\Saurav\\.m2\\repository}
+22:01:16.587 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Saurav\OneDrive\Desktop\BrowserStack-Assignment\browserstack-assignment\browserstack.yml
+22:01:16.722 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+22:01:16.728 [main] INFO  c.b.config.BrowserStackConfig - Few SDK features were not activated as platforms object was not defined
+22:01:17.237 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+22:01:20.337 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+22:01:25.604 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/zwt17gzu2wsrsvk12mokqvsocs2fn0tpbj1tilu0 to view build report, insights, and many more debugging information all at one place!
+
+22:01:25.606 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+22:08:14.483 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.20.0
+22:08:14.487 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+22:08:15.012 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=C\:\\Users\\Saurav\\OneDrive\\Desktop\\BrowserStack-Assignment\\browserstack-assignment, localrepository=C\:\\Users\\Saurav\\.m2\\repository}
+22:08:15.013 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Saurav\OneDrive\Desktop\BrowserStack-Assignment\browserstack-assignment\browserstack.yml
+22:08:15.087 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+22:08:15.503 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+22:08:18.451 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+22:08:23.913 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/7h3j8pxov2vt5o7lffrgmvyg2ebnnkq95ah4fvpo to view build report, insights, and many more debugging information all at one place!
+
+22:08:23.914 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+22:08:26.107 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+22:08:26.107 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+22:28:39.042 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.20.0
+22:28:39.064 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+22:28:39.820 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=C\:\\Users\\Saurav\\OneDrive\\Desktop\\BrowserStack-Assignment\\browserstack-assignment, localrepository=C\:\\Users\\Saurav\\.m2\\repository}
+22:28:39.827 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Saurav\OneDrive\Desktop\BrowserStack-Assignment\browserstack-assignment\browserstack.yml
+22:28:39.990 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+22:28:40.537 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+22:28:44.172 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+22:28:48.037 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/woggrqsqibq00ng3pifapu0ch5r64urelijpjjkx to view build report, insights, and many more debugging information all at one place!
+
+22:28:48.037 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+22:28:50.548 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+22:28:50.548 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+00:28:22.100 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.20.0
+00:28:22.104 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+00:28:22.645 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=C\:\\Users\\Saurav\\OneDrive\\Desktop\\BrowserStack-Assignment\\browserstack-assignment, user.dir=C\:\\Users\\Saurav\\OneDrive\\Desktop\\BrowserStack-Assignment\\browserstack-assignment, localrepository=C\:\\Users\\Saurav\\.m2\\repository}
+00:28:22.645 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Saurav\OneDrive\Desktop\BrowserStack-Assignment\browserstack-assignment\browserstack.yml
+00:28:22.745 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+00:28:23.277 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+00:28:27.088 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+00:28:30.778 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/xklwc8byzyxrgvmztdjy3nv5lwk0wi4na6mgf9jx to view build report, insights, and many more debugging information all at one place!
+
+00:28:30.778 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+00:28:32.520 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+00:28:32.520 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+00:38:48.856 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.20.0
+00:38:48.861 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+00:38:49.679 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=C\:\\Users\\Saurav\\OneDrive\\Desktop\\BrowserStack-Assignment\\browserstack-assignment, user.dir=C\:\\Users\\Saurav\\OneDrive\\Desktop\\BrowserStack-Assignment\\browserstack-assignment, localrepository=C\:\\Users\\Saurav\\.m2\\repository}
+00:38:49.682 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Saurav\OneDrive\Desktop\BrowserStack-Assignment\browserstack-assignment\browserstack.yml
+00:38:49.810 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+00:38:50.508 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+00:38:54.202 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+00:38:57.477 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/dw8qvxcm8jypvchdlx4br2v4aufn6yp3ucr5vjdp to view build report, insights, and many more debugging information all at one place!
+
+00:38:57.477 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+00:38:59.266 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+00:38:59.266 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+00:43:10.890 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.20.0
+00:43:10.909 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+00:43:11.637 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=C\:\\Users\\Saurav\\OneDrive\\Desktop\\BrowserStack-Assignment\\browserstack-assignment, user.dir=C\:\\Users\\Saurav\\OneDrive\\Desktop\\BrowserStack-Assignment\\browserstack-assignment, localrepository=C\:\\Users\\Saurav\\.m2\\repository}
+00:43:11.639 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Saurav\OneDrive\Desktop\BrowserStack-Assignment\browserstack-assignment\browserstack.yml
+00:43:11.730 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+00:43:12.270 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+00:43:15.662 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+00:43:29.558 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/o20le1bzpdyhw0je2i6fucaymuysv8z9ptxvlkoy to view build report, insights, and many more debugging information all at one place!
+
+00:43:29.558 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+00:43:31.609 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+00:43:31.609 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+01:00:31.645 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.20.0
+01:00:31.651 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+01:00:32.270 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=C\:\\Users\\Saurav\\OneDrive\\Desktop\\BrowserStack-Assignment\\browserstack-assignment, user.dir=C\:\\Users\\Saurav\\OneDrive\\Desktop\\BrowserStack-Assignment\\browserstack-assignment, localrepository=C\:\\Users\\Saurav\\.m2\\repository}
+01:00:32.272 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Saurav\OneDrive\Desktop\BrowserStack-Assignment\browserstack-assignment\browserstack.yml
+01:00:32.395 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+01:00:33.126 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+01:00:36.858 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+01:00:44.286 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/65xca1kpoylszfignnsxlhumkyldvjbhybeizxsf to view build report, insights, and many more debugging information all at one place!
+
+01:00:44.288 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+01:00:46.515 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+01:00:46.515 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN
+01:08:48.576 [main] INFO  c.browserstack.BrowserStackJavaAgent - Selenium version detected - 4.20.0
+01:08:48.582 [main] INFO  c.browserstack.BrowserStackJavaAgent - Appium version detected - 
+01:08:49.059 [main] DEBUG c.b.config.BrowserStackConfig - Cli Config passed - {basedir=C\:\\Users\\Saurav\\OneDrive\\Desktop\\BrowserStack-Assignment\\browserstack-assignment, user.dir=C\:\\Users\\Saurav\\OneDrive\\Desktop\\BrowserStack-Assignment\\browserstack-assignment, localrepository=C\:\\Users\\Saurav\\.m2\\repository}
+01:08:49.061 [main] INFO  c.browserstack.utils.UtilityMethods - BrowserStack Yml Detected : C:\Users\Saurav\OneDrive\Desktop\BrowserStack-Assignment\browserstack-assignment\browserstack.yml
+01:08:49.170 [main] INFO  c.b.config.BrowserStackConfig - Detected Framework testng
+01:08:49.816 [main] INFO  c.browserstack.BrowserStackJavaAgent - Framework set to testng
+01:08:53.405 [main] INFO  c.browserstack.BrowserStackJavaAgent - Project and debug logs are captured by default. To disable, set disableAutoCaptureLogs: true in config.
+01:09:01.056 [Thread-0] INFO  c.browserstack.utils.LogReportingAPI - Visit https://observability.browserstack.com/builds/tt5bmcsedzmiq4opggen99tuppvbb4abmfks4brt to view build report, insights, and many more debugging information all at one place!
+
+01:09:01.056 [Thread-0] INFO  c.b.config.BrowserStackConfig - INFO
+01:09:02.986 [Thread-0] WARN  c.browserstack.utils.UtilityMethods - Unable to show build URL, as build capability is not used
+01:09:02.986 [Thread-0] INFO  c.b.config.BrowserStackConfig - WARN

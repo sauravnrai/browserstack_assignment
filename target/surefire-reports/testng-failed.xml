@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE suite SYSTEM "https://testng.org/testng-1.0.dtd">
+<suite thread-count="25" parallel="tests" name="Failed suite [Cross-Platform]" guice-stage="DEVELOPMENT" verbose="0">
+  <test thread-count="25" parallel="tests" name="ElPaisBrowserStackTest1-2(failed)" verbose="0">
+    <parameter name="platform" value="2"/>
+    <classes>
+      <class name="com.saurav.scraper.ElPaisTest">
+        <methods>
+          <include name="runScraperOnBrowserStack"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.saurav.scraper.ElPaisTest -->
+    </classes>
+  </test> <!-- ElPaisBrowserStackTest1-2(failed) -->
+  <test thread-count="25" parallel="tests" name="ElPaisBrowserStackTest1-3(failed)" verbose="0">
+    <parameter name="platform" value="3"/>
+    <classes>
+      <class name="com.saurav.scraper.ElPaisTest">
+        <methods>
+          <include name="runScraperOnBrowserStack"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.saurav.scraper.ElPaisTest -->
+    </classes>
+  </test> <!-- ElPaisBrowserStackTest1-3(failed) -->
+  <test thread-count="25" parallel="tests" name="ElPaisBrowserStackTest1-0(failed)" verbose="0">
+    <parameter name="platform" value="0"/>
+    <classes>
+      <class name="com.saurav.scraper.ElPaisTest">
+        <methods>
+          <include name="runScraperOnBrowserStack"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.saurav.scraper.ElPaisTest -->
+    </classes>
+  </test> <!-- ElPaisBrowserStackTest1-0(failed) -->
+  <test thread-count="25" parallel="tests" name="ElPaisBrowserStackTest1-4(failed)" verbose="0">
+    <parameter name="platform" value="4"/>
+    <classes>
+      <class name="com.saurav.scraper.ElPaisTest">
+        <methods>
+          <include name="runScraperOnBrowserStack"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.saurav.scraper.ElPaisTest -->
+    </classes>
+  </test> <!-- ElPaisBrowserStackTest1-4(failed) -->
+  <test thread-count="25" parallel="tests" name="ElPaisBrowserStackTest1-1(failed)" verbose="0">
+    <parameter name="platform" value="1"/>
+    <classes>
+      <class name="com.saurav.scraper.ElPaisTest">
+        <methods>
+          <include name="runScraperOnBrowserStack"/>
+          <include name="setUp"/>
+          <include name="tearDown"/>
+        </methods>
+      </class> <!-- com.saurav.scraper.ElPaisTest -->
+    </classes>
+  </test> <!-- ElPaisBrowserStackTest1-1(failed) -->
+</suite> <!-- Failed suite [Cross-Platform] -->
