@@ -1,5 +1,5 @@
-userName: "sauravrai_QyXufU"
-accessKey: "po7AyP546bi1DyivqJQz"
+userName: 
+accessKey:
 
 run_settings:
   test_framework: testng
